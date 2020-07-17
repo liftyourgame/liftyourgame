@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg Pagendam-Turner</h1>
-<h3 align="center">A passionate full stack developer from Australia </h3>
+<h3 align="center">A full stack developer from Australia coding in 116 programming languages</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liftyourgame" alt="liftyourgame" /> </p>
 
 - 📫 How to reach me **greg@netroworx.com**
