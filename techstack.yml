@@ -1,0 +1,18 @@
+repo_name: liftyourgame/liftyourgame
+report_id: ce79e9e4b79ad7199a44e59216c81d86
+repo_type: Public
+timestamp: '2023-12-14T16:27:04+00:00'
+requested_by: liftyourgame
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
