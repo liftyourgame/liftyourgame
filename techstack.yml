@@ -1,7 +1,8 @@
 repo_name: liftyourgame/liftyourgame
 report_id: ce79e9e4b79ad7199a44e59216c81d86
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T16:27:04+00:00'
+timestamp: '2024-01-05T08:23:45+00:00'
 requested_by: liftyourgame
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/liftyourgame/liftyourgame
   detection_source: Repo Metadata
